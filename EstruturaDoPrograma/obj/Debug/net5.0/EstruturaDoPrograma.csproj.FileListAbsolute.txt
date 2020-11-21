@@ -1,0 +1,16 @@
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\git\dot_net_project\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\git\dot_net_project\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
