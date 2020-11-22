@@ -1,0 +1,5 @@
+C:\git\dot_net_project\Instrucoes\obj\Debug\net5.0\Instrucoes.csprojAssemblyReference.cache
+C:\git\dot_net_project\Instrucoes\obj\Debug\net5.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Instrucoes\obj\Debug\net5.0\Instrucoes.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Instrucoes\obj\Debug\net5.0\Instrucoes.AssemblyInfo.cs
+C:\git\dot_net_project\Instrucoes\obj\Debug\net5.0\Instrucoes.csproj.CoreCompileInputs.cache
