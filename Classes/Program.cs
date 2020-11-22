@@ -10,3 +10,11 @@ namespace Classes
         }
     }
 }
+
+/*Acessibilidade:
+Podem ser: 
+public
+protected
+internal
+private
+*/
