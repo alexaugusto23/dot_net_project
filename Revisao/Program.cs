@@ -40,10 +40,29 @@ namespace Revisao
 
                     case "2":
                         //Todo: Listar alunos 
+                        foreach(var pessoa in alunos)
+                        {
+                            if(!string.IsNullOrEmpty(pessoa.Nome))
+                            {
+                                Console.WriteLine($"ALUNO: {pessoa.Nome} NOTA: {pessoa.Nota}");
+                            }
+                        }
                         break;
 
                     case "3":
                         //Todo: Calcular Média 
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
+                        for(int i=0; i< alunos.Length; i++)
+                        {
+                            if(!string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                notaTotal = notaTotal + alunos[i].Nota;
+                                nrAlunos++;
+                            }
+                        }
+                        var mediaGeral = notaTotal/nrAlunos;
+                        Console.WriteLine($"Média Geral: {mediaGeral}");
                         break;
 
                     default:
