@@ -4,6 +4,7 @@ namespace Revisao
 {
     class Program
     {
+        Aluno[] alunos = new Aluno[5];
         static void Main(string[] args)
         {
             string opcaoUsuario = ObterOpcaoUsuario();
@@ -14,6 +15,9 @@ namespace Revisao
                 {
                     case "1":
                         //Todo: Adicionar aluno 
+                        Console.WriteLine("Informe o nme do Aluno:");
+                        Aluno aluno = new Aluno();
+                        aluno.Nome = Console.ReadLine();
                         break;
 
 
@@ -28,6 +32,7 @@ namespace Revisao
                     default:
                         throw new ArgumentOutOfRangeException();
                 }
+                opcaoUsuario = ObterOpcaoUsuario();
             }
         }
         private static string ObterOpcaoUsuario()
@@ -39,6 +44,7 @@ namespace Revisao
             Console.WriteLine("X - Sair da Aplicação");
 
             string opcaoUsuario = Console.ReadLine();
+            Console.WriteLine();
             return opcaoUsuario;
         }
     }
