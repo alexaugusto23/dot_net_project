@@ -1,0 +1,16 @@
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\dividindo_X_por_Y.exe
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\dividindo_X_por_Y.deps.json
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\dividindo_X_por_Y.runtimeconfig.json
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\dividindo_X_por_Y.runtimeconfig.dev.json
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\dividindo_X_por_Y.dll
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\ref\dividindo_X_por_Y.dll
+C:\git\dot_net_project\dividindo_X_por_Y\bin\Debug\net5.0\dividindo_X_por_Y.pdb
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.csprojAssemblyReference.cache
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.AssemblyInfoInputs.cache
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.AssemblyInfo.cs
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.dll
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\ref\dividindo_X_por_Y.dll
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.pdb
+C:\git\dot_net_project\dividindo_X_por_Y\obj\Debug\net5.0\dividindo_X_por_Y.genruntimeconfig.cache
