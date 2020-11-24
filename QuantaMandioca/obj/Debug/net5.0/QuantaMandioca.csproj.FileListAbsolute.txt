@@ -1,0 +1,16 @@
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\QuantaMandioca.exe
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\QuantaMandioca.deps.json
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\QuantaMandioca.runtimeconfig.json
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\QuantaMandioca.runtimeconfig.dev.json
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\QuantaMandioca.dll
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\ref\QuantaMandioca.dll
+C:\git\dot_net_project\QuantaMandioca\bin\Debug\net5.0\QuantaMandioca.pdb
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.csprojAssemblyReference.cache
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.AssemblyInfoInputs.cache
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.AssemblyInfo.cs
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.dll
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\ref\QuantaMandioca.dll
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.pdb
+C:\git\dot_net_project\QuantaMandioca\obj\Debug\net5.0\QuantaMandioca.genruntimeconfig.cache
