@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.csprojAssemblyReference.cache
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.AssemblyInfo.cs
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\Quadradoeaocubo.exe
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\Quadradoeaocubo.deps.json
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\Quadradoeaocubo.runtimeconfig.json
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\Quadradoeaocubo.runtimeconfig.dev.json
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\Quadradoeaocubo.dll
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\ref\Quadradoeaocubo.dll
+C:\git\dot_net_project\Quadradoeaocubo\bin\Debug\net5.0\Quadradoeaocubo.pdb
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.dll
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\ref\Quadradoeaocubo.dll
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.pdb
+C:\git\dot_net_project\Quadradoeaocubo\obj\Debug\net5.0\Quadradoeaocubo.genruntimeconfig.cache
