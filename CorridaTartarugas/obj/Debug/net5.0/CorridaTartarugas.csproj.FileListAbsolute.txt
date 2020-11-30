@@ -1,0 +1,16 @@
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.csprojAssemblyReference.cache
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.AssemblyInfoInputs.cache
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.AssemblyInfo.cs
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\CorridaTartarugas.exe
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\CorridaTartarugas.deps.json
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\CorridaTartarugas.runtimeconfig.json
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\CorridaTartarugas.runtimeconfig.dev.json
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\CorridaTartarugas.dll
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\ref\CorridaTartarugas.dll
+C:\git\dot_net_project\CorridaTartarugas\bin\Debug\net5.0\CorridaTartarugas.pdb
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.dll
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\ref\CorridaTartarugas.dll
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.pdb
+C:\git\dot_net_project\CorridaTartarugas\obj\Debug\net5.0\CorridaTartarugas.genruntimeconfig.cache

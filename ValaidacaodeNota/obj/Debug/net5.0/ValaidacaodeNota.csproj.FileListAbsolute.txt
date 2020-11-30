@@ -1,0 +1,16 @@
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ValaidacaodeNota.exe
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ValaidacaodeNota.deps.json
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ValaidacaodeNota.runtimeconfig.json
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ValaidacaodeNota.runtimeconfig.dev.json
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ValaidacaodeNota.dll
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ref\ValaidacaodeNota.dll
+C:\git\dot_net_project\ValaidacaodeNota\bin\Debug\net5.0\ValaidacaodeNota.pdb
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.csprojAssemblyReference.cache
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.AssemblyInfoInputs.cache
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.AssemblyInfo.cs
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.dll
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ref\ValaidacaodeNota.dll
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.pdb
+C:\git\dot_net_project\ValaidacaodeNota\obj\Debug\net5.0\ValaidacaodeNota.genruntimeconfig.cache

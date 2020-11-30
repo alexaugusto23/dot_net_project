@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\dot_net_project\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj": {}
+    "C:\\git\\dot_net_project\\UltrapassandoV\\UltrapassandoV.csproj": {}
   },
   "projects": {
-    "C:\\git\\dot_net_project\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj": {
+    "C:\\git\\dot_net_project\\UltrapassandoV\\UltrapassandoV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\dot_net_project\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
-        "projectName": "EstruturaDoPrograma",
-        "projectPath": "C:\\git\\dot_net_project\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+        "projectUniqueName": "C:\\git\\dot_net_project\\UltrapassandoV\\UltrapassandoV.csproj",
+        "projectName": "UltrapassandoV",
+        "projectPath": "C:\\git\\dot_net_project\\UltrapassandoV\\UltrapassandoV.csproj",
         "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\dot_net_project\\EstruturaDoPrograma\\obj\\",
+        "outputPath": "C:\\git\\dot_net_project\\UltrapassandoV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

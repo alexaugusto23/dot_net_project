@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\dot_net_project\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
-      "projectName": "EstruturaDoPrograma",
-      "projectPath": "C:\\git\\dot_net_project\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+      "projectUniqueName": "C:\\git\\dot_net_project\\ValaidacaodeNota\\ValaidacaodeNota.csproj",
+      "projectName": "ValaidacaodeNota",
+      "projectPath": "C:\\git\\dot_net_project\\ValaidacaodeNota\\ValaidacaodeNota.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\dot_net_project\\EstruturaDoPrograma\\obj\\",
+      "outputPath": "C:\\git\\dot_net_project\\ValaidacaodeNota\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
