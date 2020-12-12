@@ -1,0 +1,16 @@
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\CardapioAereo.exe
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\CardapioAereo.deps.json
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\CardapioAereo.runtimeconfig.json
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\CardapioAereo.runtimeconfig.dev.json
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\CardapioAereo.dll
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\ref\CardapioAereo.dll
+C:\git\dot_net_project\CardapioAereo\bin\Debug\net5.0\CardapioAereo.pdb
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.csprojAssemblyReference.cache
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.AssemblyInfoInputs.cache
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.AssemblyInfo.cs
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.dll
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\ref\CardapioAereo.dll
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.pdb
+C:\git\dot_net_project\CardapioAereo\obj\Debug\net5.0\CardapioAereo.genruntimeconfig.cache

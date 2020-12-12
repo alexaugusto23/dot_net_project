@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\Idade_em_dias.exe
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\Idade_em_dias.deps.json
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\Idade_em_dias.runtimeconfig.json
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\Idade_em_dias.runtimeconfig.dev.json
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\Idade_em_dias.dll
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\ref\Idade_em_dias.dll
+C:\git\dot_net_project\Idade_em_dias\bin\Debug\net5.0\Idade_em_dias.pdb
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.csprojAssemblyReference.cache
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.AssemblyInfo.cs
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.dll
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\ref\Idade_em_dias.dll
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.pdb
+C:\git\dot_net_project\Idade_em_dias\obj\Debug\net5.0\Idade_em_dias.genruntimeconfig.cache

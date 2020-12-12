@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.csprojAssemblyReference.cache
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.AssemblyInfo.cs
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\Tempo_do_Dobby.exe
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\Tempo_do_Dobby.deps.json
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\Tempo_do_Dobby.runtimeconfig.json
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\Tempo_do_Dobby.runtimeconfig.dev.json
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\Tempo_do_Dobby.dll
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\ref\Tempo_do_Dobby.dll
+C:\git\dot_net_project\Tempo_do_Dobby\bin\Debug\net5.0\Tempo_do_Dobby.pdb
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.dll
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\ref\Tempo_do_Dobby.dll
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.pdb
+C:\git\dot_net_project\Tempo_do_Dobby\obj\Debug\net5.0\Tempo_do_Dobby.genruntimeconfig.cache

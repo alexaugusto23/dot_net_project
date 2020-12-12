@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\Conversão_de_Tempo.exe
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\Conversão_de_Tempo.deps.json
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\Conversão_de_Tempo.runtimeconfig.json
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\Conversão_de_Tempo.runtimeconfig.dev.json
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\Conversão_de_Tempo.dll
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\ref\Conversão_de_Tempo.dll
+C:\git\dot_net_project\Conversão_de_Tempo\bin\Debug\net5.0\Conversão_de_Tempo.pdb
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.csprojAssemblyReference.cache
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.AssemblyInfo.cs
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.dll
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\ref\Conversão_de_Tempo.dll
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.pdb
+C:\git\dot_net_project\Conversão_de_Tempo\obj\Debug\net5.0\Conversão_de_Tempo.genruntimeconfig.cache

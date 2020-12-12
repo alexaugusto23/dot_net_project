@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.exe
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.deps.json
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.runtimeconfig.json
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.runtimeconfig.dev.json
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.dll
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\ref\Pizza_Antes_do_Final_do_Ano.dll
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\bin\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.pdb
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.csprojAssemblyReference.cache
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.AssemblyInfo.cs
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.dll
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\ref\Pizza_Antes_do_Final_do_Ano.dll
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.pdb
+C:\git\dot_net_project\Pizza_Antes_do_Final_do_Ano\obj\Debug\net5.0\Pizza_Antes_do_Final_do_Ano.genruntimeconfig.cache

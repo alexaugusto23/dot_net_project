@@ -1,0 +1,16 @@
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\HoraDaCorrida.exe
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\HoraDaCorrida.deps.json
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\HoraDaCorrida.runtimeconfig.json
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\HoraDaCorrida.runtimeconfig.dev.json
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\HoraDaCorrida.dll
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\ref\HoraDaCorrida.dll
+C:\git\dot_net_project\HoraDaCorrida\bin\Debug\net5.0\HoraDaCorrida.pdb
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.csprojAssemblyReference.cache
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.AssemblyInfoInputs.cache
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.AssemblyInfo.cs
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.dll
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\ref\HoraDaCorrida.dll
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.pdb
+C:\git\dot_net_project\HoraDaCorrida\obj\Debug\net5.0\HoraDaCorrida.genruntimeconfig.cache

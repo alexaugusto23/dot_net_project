@@ -1,0 +1,16 @@
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\OMundodeOz.exe
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\OMundodeOz.deps.json
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\OMundodeOz.runtimeconfig.json
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\OMundodeOz.runtimeconfig.dev.json
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\OMundodeOz.dll
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\ref\OMundodeOz.dll
+C:\git\dot_net_project\OMundodeOz\bin\Debug\net5.0\OMundodeOz.pdb
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.csprojAssemblyReference.cache
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.AssemblyInfoInputs.cache
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.AssemblyInfo.cs
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.dll
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\ref\OMundodeOz.dll
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.pdb
+C:\git\dot_net_project\OMundodeOz\obj\Debug\net5.0\OMundodeOz.genruntimeconfig.cache
