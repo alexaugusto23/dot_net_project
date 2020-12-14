@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rodizio_de_cavalos_e_carruagens/1.0.0": {
+        "runtime": {
+          "Rodizio_de_cavalos_e_carruagens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rodizio_de_cavalos_e_carruagens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

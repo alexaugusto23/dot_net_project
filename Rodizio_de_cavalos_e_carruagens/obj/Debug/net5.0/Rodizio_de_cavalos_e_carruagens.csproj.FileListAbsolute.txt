@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.csprojAssemblyReference.cache
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.AssemblyInfo.cs
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.exe
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.deps.json
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.runtimeconfig.json
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.runtimeconfig.dev.json
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.dll
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\ref\Rodizio_de_cavalos_e_carruagens.dll
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\bin\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.pdb
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.dll
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\ref\Rodizio_de_cavalos_e_carruagens.dll
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.pdb
+C:\git\dot_net_project\Rodizio_de_cavalos_e_carruagens\obj\Debug\net5.0\Rodizio_de_cavalos_e_carruagens.genruntimeconfig.cache
