@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace AlbumdaCopa
 {
@@ -6,40 +7,35 @@ namespace AlbumdaCopa
     {
         static void Main(string[] args)
         {
-            int numeroDeFigurinhas = Int32.Parse(Console.ReadLine());
+            int numeroDeFigurinhas = int.Parse(Console.ReadLine());
+            int numeroDeFigurinhasCompradas = int.Parse(Console.ReadLine());
             int totalDeFigurinhas = 0;
-            int [] albumDeFigurinha = new int[numeroDeFigurinhas];
-            int countfig = 0;
-
+            int [] albumDeFigurinha = new int[numeroDeFigurinhasCompradas];
+            int fig = 0;
+            
             for(int i = 0; i < albumDeFigurinha.Length; i++)
-            {
-                int numeroDeFigurinhasCompradas = Int32.Parse(Console.ReadLine());
-                albumDeFigurinha[i] = numeroDeFigurinhasCompradas;
-                if(albumDeFigurinha[i] > 0)
-                {countfig++;}
-
-                //Console.WriteLine(albumDeFigurinha[i]);
-            }
-
-            for (int i = 0; i < countfig; i++)
-            {
-                for( int j=1; j < countfig; j++)
+            {   
+                int figurinha;
+                figurinha = int.Parse(Console.ReadLine());
+                albumDeFigurinha[i] = figurinha;
+                fig ++;
+            } 
+            
+            for(int i = 0; i < albumDeFigurinha.Length; i++)
+            { 
+                for(int x = i + 1; x < albumDeFigurinha.Length; x++)
                 {
-                    //Console.Write(albumDeFigurinha[i] + " ");
-                    //Console.WriteLine(albumDeFigurinha[j]);
-                    if(albumDeFigurinha[0] == albumDeFigurinha[j])
+                    if(albumDeFigurinha[i] == albumDeFigurinha[x])
                     {
-                        countfig -= 1;
-                    } 
+                        fig--;
+                    }
                 }
-
-            }
-            //Console.WriteLine($"countfig: {countfig}");
+            } 
 
             totalDeFigurinhas = numeroDeFigurinhas;
-            totalDeFigurinhas -= countfig;
-            //Console.WriteLine($"Total de figurinhas: {totalDeFigurinhas - countfig}");
-            Console.WriteLine(totalDeFigurinhas);
+            totalDeFigurinhas -= fig;
+            Console.WriteLine(totalDeFigurinhas.ToString());
         }
     }
 }
+
