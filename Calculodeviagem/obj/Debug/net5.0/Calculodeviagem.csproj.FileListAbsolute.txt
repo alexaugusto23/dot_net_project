@@ -1,0 +1,16 @@
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.csprojAssemblyReference.cache
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.AssemblyInfoInputs.cache
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.AssemblyInfo.cs
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\Calculodeviagem.exe
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\Calculodeviagem.deps.json
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\Calculodeviagem.runtimeconfig.json
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\Calculodeviagem.runtimeconfig.dev.json
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\Calculodeviagem.dll
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\ref\Calculodeviagem.dll
+C:\git\dot_net_project\Calculodeviagem\bin\Debug\net5.0\Calculodeviagem.pdb
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.dll
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\ref\Calculodeviagem.dll
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.pdb
+C:\git\dot_net_project\Calculodeviagem\obj\Debug\net5.0\Calculodeviagem.genruntimeconfig.cache

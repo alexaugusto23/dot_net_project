@@ -1,0 +1,16 @@
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\AlbumdaCopa.exe
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\AlbumdaCopa.deps.json
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\AlbumdaCopa.runtimeconfig.json
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\AlbumdaCopa.runtimeconfig.dev.json
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\AlbumdaCopa.dll
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\ref\AlbumdaCopa.dll
+C:\git\dot_net_project\AlbumdaCopa\bin\Debug\net5.0\AlbumdaCopa.pdb
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.csprojAssemblyReference.cache
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.AssemblyInfoInputs.cache
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.AssemblyInfo.cs
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.csproj.CoreCompileInputs.cache
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.dll
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\ref\AlbumdaCopa.dll
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.pdb
+C:\git\dot_net_project\AlbumdaCopa\obj\Debug\net5.0\AlbumdaCopa.genruntimeconfig.cache
